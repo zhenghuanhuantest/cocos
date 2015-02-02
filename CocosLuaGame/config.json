@@ -3,7 +3,7 @@
     "isLandscape": true,
     "isWindowTop": false,
     "name": "CocosLuaGame",
-    "width": 1136,
+    "width": 1140,
     "height": 640,
     "entry": "src/main.lua",
     "consolePort": 6010,
